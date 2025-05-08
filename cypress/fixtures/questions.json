@@ -1,0 +1,37 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "answers": ["Paris", "London", "Rome", "Berlin"],
+    "correctAnswer": "Paris"
+  },
+  {
+    "question": "What does HTTP stand for?",
+    "answers": [
+      "HyperText Transfer Protocol",
+      "HighText Transfer Protocol",
+      "Hyper Transfer Text Protocol",
+      "HyperText Translate Protocol"
+    ],
+    "correctAnswer": "HyperText Transfer Protocol"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "answers": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "correctAnswer": "Jupiter"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "answers": ["Au", "Ag", "Pb", "Fe"],
+    "correctAnswer": "Au"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answers": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+    "correctAnswer": "Leonardo da Vinci"
+  },
+  {
+    "question": "What is the smallest prime number?",
+    "answers": ["0", "1", "2", "3"],
+    "correctAnswer": "2"
+  }
+]
